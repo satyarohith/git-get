@@ -1,3 +1,11 @@
 # git-get
 
-Like `go get`, but with extra butter.
+Basically `go get` for `git`.
+
+# Installation
+
+# Usage
+
+# License
+
+[MIT](LICENSE) © [Satya Rohith](https://satyarohith.com)
